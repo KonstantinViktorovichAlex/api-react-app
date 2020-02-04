@@ -1,0 +1,15 @@
+.spinner {
+    width: 700px;
+    display: flex;
+    justify-content: center;
+}
+.text.card-text {
+    font-size: large;
+}
+
+.card-title {
+    font-weight: bold;
+}
+.card{
+    margin-bottom: 10px;
+}
