@@ -20,7 +20,7 @@ class Time extends Component{
     }
 
     componentWillUnmount(){
-        this.interval = clearInterval()
+        clearInterval(this.interval)
     }
 
 
